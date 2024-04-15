@@ -1,6 +1,6 @@
 # The Wild Oasis Hotel Management APP
 
-Main project for MCA Hotel Management App
+Main project for MCA Hotel Management App. Built using React and Supabase API.
 
 Currently, two official plugins are available:
 
